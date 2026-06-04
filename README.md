@@ -74,7 +74,10 @@ Stooged https://github.com/stooged
 Echostretch https://github.com/EchoStretch
 Drakmor https://github.com/drakmor
 TheOfficialFloW https://github.com/theofficialflow
-Pippo, kerrdec97, Mr.Cat all devs, dumpers, testers
+BestPig https://github.com/BestPig
+VoidWhisper https://github.com/voidwhisper-ps
+cy33hc https://github.com/cy33hc
+Pippo, kerrdec97, Speed-007, Mr.Cat all devs, dumpers, testers
 
 PS4/PS5 Jailbreak Pinas
 https://www.facebook.com/groups/390633592648807
