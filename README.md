@@ -3,7 +3,7 @@
 ESP8266 WebHost for PS5 FW4xx to FW5xx
 --------------------------------------
 
-This is a webhost for esp8266 chip(i haven't tested esp32 yet) for firmwares FW4xx to FW5xx. 
+This is a webhost on a esp8266 chip for firmwares FW4xx to FW5xx. 
 It's the webhost UMTX2 made by Idlesauce that comes with some adjustment.
 I did put Mouuu㋡'s additional "pop up feature notification", that is his genius workaround regarding Etahen's freezing problem, specially the toolbox feature loading after injecting it.
 Even though I no longer use etahen since December last year, I decided to keep Mouuu㋡'s script on it.
@@ -30,7 +30,7 @@ This webhost comes with 7 payloads initially:
 What is needed?
 --------------------------------------
 
-- an esp8266 mini chip (a regular size esp8266 may work or an esp32, but I haven't tested it yet)
+- an esp8266 mini chip (a regular size esp8266 may work, I haven't tested it yet)
 - a node mcu pyflasher (https://github.com/marcelstoer/nodemcu-pyflasher)
 - binfile (ESP8266PS5UMTX2_V2SU.bin)
 - media tab shortcut icon installer (no need to run exploit via user's guide shortcut next time)
